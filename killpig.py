@@ -1,8 +1,7 @@
 """
-Usage: %(scriptName)s [port1 port2 ... portN]
+Usage: py %(scriptName)s [port1 port2 ... portN]
 
-This module kill all process runnning on the specified ports
-Ports must be passed as parameters
+This script kills all process runnning on the ports passed in parameter
 """
 
 import sys
